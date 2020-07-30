@@ -2,5 +2,8 @@
   "name": "image-view2",
   "version": "0.1.0",
   "main": "index.js",
-  "license": "MIT"
+  "license": "MIT",
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org/"
+  }
 }
