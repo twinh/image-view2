@@ -1,3 +1,13 @@
+## [0.1.6](https://github.com/twinh/image-view2/compare/v0.1.5...v0.1.6) (2021-03-09)
+
+
+
+
+
+### Dependencies
+
+* **@miaoxing/dev:** upgrade from 6.2.0 to 6.3.0
+
 ## [0.1.5](https://github.com/twinh/image-view2/compare/v0.1.4...v0.1.5) (2021-03-05)
 
 
