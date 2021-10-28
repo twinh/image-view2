@@ -1,3 +1,13 @@
+## [0.1.14](https://github.com/twinh/image-view2/compare/v0.1.13...v0.1.14) (2021-10-28)
+
+
+
+
+
+### Dependencies
+
+* **@miaoxing/dev:** upgrade from `7.0.1` to `8.0.0`
+
 ## [0.1.13](https://github.com/twinh/image-view2/compare/v0.1.12...v0.1.13) (2021-05-12)
 
 
