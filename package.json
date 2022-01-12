@@ -1,13 +1,13 @@
 {
   "name": "image-view2",
-  "version": "0.1.14",
+  "version": "0.1.15",
   "main": "index.js",
   "license": "MIT",
   "publishConfig": {
     "registry": "https://registry.npmjs.org/"
   },
   "devDependencies": {
-    "@miaoxing/dev": "^8.0.0"
+    "@miaoxing/dev": "^8.0.1"
   },
   "jest": {
     "preset": "jest-preset-miaoxing"
